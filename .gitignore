@@ -60,3 +60,9 @@ target/
 
 # Node modules
 node_modules/
+
+outputs/
+*.fdb_latexmk
+*.aux
+*.fls
+*_temp.tex
