@@ -1,9 +1,16 @@
 # Appendix {.unnumbered}
+\listoffigures
+\newpage
+\listoftables
+\newpage
+## Abbreviations {.unnumbered}
 
-<!-- 
-This could include extra figures or raw data
--->
-## Interview Guide
+NLP
+MOOC
+Automatic Code Grading (ACG)
+
+
+## Interview Guide {.unnumbered}
 The qualitative interviews are structured into three parts: Organizational, Learning, LAMA, and E-Assessment.
 Determined by the interviewees' answers, some questions were not asked. 
 
@@ -44,3 +51,4 @@ Determined by the interviewees' answers, some questions were not asked.
 * Has your Problem Solving Skills improved? If so how and triggered by what?
 * Were would you improve the LAMA? Why?
 * How has the teamwork influenced your learnings?
+
